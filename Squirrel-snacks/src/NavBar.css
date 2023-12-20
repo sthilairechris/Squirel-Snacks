@@ -1,0 +1,15 @@
+.Main-logo {
+  width: 50%;
+}
+.nav-link {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-link:hover {
+  color: red;
+}
