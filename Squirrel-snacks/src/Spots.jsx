@@ -1,7 +1,11 @@
 import React from "react"
+import NavBar from "./NavBar"
 
 function Spots() {
-  return <div></div>
+  return <div>
+    <NavBar />
+   
+  </div>
 }
 
 export default Spots

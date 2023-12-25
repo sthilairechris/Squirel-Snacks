@@ -1,5 +1,5 @@
 import React from "react"
-import spikes from "./assets/Spikes.svg"
+import spikes from "./assets/spike head.svg"
 import "./NavBar.css"
 import { Link } from "react-router-dom"
 
