@@ -1,0 +1,41 @@
+.spots-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
+  /* text-align: center; */
+}
+
+main {
+  padding: 20px 0;
+}
+
+.spot-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.spot {
+  width: 200px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+}
+
+.MarbleGap {
+  width: 100px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #333;
+  color: #fff;
+}/*# sourceMappingURL=Spots.css.map */

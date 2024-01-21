@@ -1,12 +1,10 @@
 import { useState } from "react"
 import { Routes, Route } from "react-router"
-import reactLogo from "./assets/react.svg"
-import viteLogo from "/vite.svg"
 import "./App.css"
-import NavBar from "./NavBar"
-import Homepage from "./Homepage"
-import Spots from "./Spots"
-import Submit from "./Submit"
+import NavBar from "./components/NavBar"
+import Homepage from "./Pages/Homepage"
+import Spots from "./Pages/Spots"
+import Submit from "./Pages/Submit"
 
 function App() {
   return (
