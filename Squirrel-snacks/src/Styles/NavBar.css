@@ -1,0 +1,21 @@
+.Main-logo {
+  display: inline;
+  padding-block: 20px;
+}
+
+.Main-logo:hover {
+  filter: drop-shadow(0 0 2em rgba(235, 8, 8, 0.8078431373));
+}
+
+.nav-link {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+.nav-link:hover {
+  color: red;
+  filter: drop-shadow(0 0 2em blue);
+}/*# sourceMappingURL=NavBar.css.map */

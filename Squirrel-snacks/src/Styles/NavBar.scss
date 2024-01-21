@@ -1,0 +1,24 @@
+.Main-logo{
+    display: inline;
+    padding-block: 20px;
+  }
+  
+  .Main-logo:hover {
+    filter: drop-shadow(0 0 2em #eb0808ce);
+  }
+  
+  .nav-link {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    
+    &:hover {
+      color: red;
+      filter: drop-shadow(0 0 2em blue);
+    }  
+  }
+  
+  
